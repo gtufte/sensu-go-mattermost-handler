@@ -4,7 +4,7 @@ Get notified in Mattermost when incidents occur
 
 ## Installing with Puppet
 
-Using (the Sensu Go Puppet-module)[https://forge.puppet.com/sensu/sensu], defined the handler in Hiera like so:
+Using [the Sensu Go Puppet-module](https://forge.puppet.com/sensu/sensu), defined the handler in Hiera like so:
 
 ```
 sensu::backend::handlers:
