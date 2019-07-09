@@ -2,6 +2,8 @@
 
 Get notified in Mattermost when incidents occur
 
+More or less a fork of the [mattermost-handler for Sensu Core](https://github.com/sensu-plugins/handler-mattermost)
+
 ## Installing with Puppet
 
 Using [the Sensu Go Puppet-module](https://forge.puppet.com/sensu/sensu), define the handler in Hiera like so:
